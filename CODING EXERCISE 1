@@ -12,8 +12,9 @@ class LifeinCampus {
 		System.out.println("5:30 pm: Perform prayers, exercise");
 		System.out.println("7:00 pm: Shower, perform prayers");
 		System.out.println("8:30 pm: Dinner");
-		System.out.println("9:00 pm: Revision, complete assignments");
-		System.out.println("11:00 pm: Perform prayers, get ready for bed");
+		System.out.println("9:00 pm: Do coding exercise");
+		System.out.println("11:00 pm: Do revisions and assignments, perform prayers");
+		System.out.println("12.00 am: Get ready for bed");
 
 	}
 
